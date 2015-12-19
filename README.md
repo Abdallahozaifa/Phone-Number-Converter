@@ -1,7 +1,7 @@
 # Phone-Number-Converter
 Generates all possible combinations of words for a 7 digit phone number
 
-OUTPUT
+OUTPUT!
 
 Enter phone number (digits greater than 1 only): 8142222222
 Please enter a valid 7 digit number, and all digits must be between 2 through 9
